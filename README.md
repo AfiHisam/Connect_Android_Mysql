@@ -40,13 +40,18 @@ And all layout file into layout folder in android studio
 
 ## Lets setup the server and database 
 
-1) Install the xampp 
+1) Install the xampp on host computer as server 
 2) Go to phpmyadmin and create new user privilege name "android" and password "pass123"
 
 <img src="https://github.com/AfiHisam/Connect_Android_Mysql/blob/master/1.PNG">
 
 After add user account successfully, it should look like this
 <img src="https://github.com/AfiHisam/Connect_Android_Mysql/blob/master/2.PNG">
+
+Create new database and name it as "connect" and table as "student". Insert some data into it
+<img src="https://github.com/AfiHisam/Connect_Android_Mysql/blob/master/4.PNG">
+
+
 
 
 
