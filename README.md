@@ -28,4 +28,11 @@ Not forget to add this line of code in AndroidManifest.xml in order to make conn
 <hr>
 
 Copy and paste Connection.java and CustomAdapter.java into java folder 
+
 <img src="https://github.com/AfiHisam/Connect_Android_Mysql/blob/master/class.PNG">
+<br><br>
+
+And all file in layout folder into layout folder in android studio 
+
+<img src="https://github.com/AfiHisam/Connect_Android_Mysql/blob/master/layout.PNG">
+
