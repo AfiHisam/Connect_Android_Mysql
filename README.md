@@ -32,7 +32,7 @@ Copy and paste Connection.java and CustomAdapter.java into java folder
 <img src="https://github.com/AfiHisam/Connect_Android_Mysql/blob/master/class.PNG">
 <br><br>
 
-And all file in layout folder into layout folder in android studio 
+And all layout file into layout folder in android studio 
 
 <img src="https://github.com/AfiHisam/Connect_Android_Mysql/blob/master/layout.PNG">
 
