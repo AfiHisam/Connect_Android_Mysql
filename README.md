@@ -20,8 +20,12 @@ compile 'com.github.amigold.fundapter:library:1.0'
 compile files('libs/mysql-connector-java-5.1.23-bin.jar')
 </pre>
 
-Not forget to add this line of code in AndroidManifest.xml to make connection 
+Not forget to add this line of code in AndroidManifest.xml in order to make connection 
 
 <pre>
 < uses-permission android:name="android.permission.INTERNET" />
 </pre>
+<hr>
+
+Copy and paste Connection.java and CustomAdapter.java into java folder 
+<img src="https://github.com/AfiHisam/Connect_Android_Mysql/blob/master/class.PNG">
