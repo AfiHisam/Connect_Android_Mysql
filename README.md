@@ -51,7 +51,18 @@ After add user account successfully, it should look like this
 Create new database and name it as "connect" and table as "student". Insert some data into it
 <img src="https://github.com/AfiHisam/Connect_Android_Mysql/blob/master/4.PNG">
 
+<br><br>
 
+## Now Go back to android studio
+
+Customize ConnectionClass.java file...
+at line 16 replace the ip with your server ip.
+
+<pre>
+    String url = "jdbc:mysql://<b>192.168.43.99</b>/connect";
+    String un = "android";
+    String password = "pass123";
+</pre>
 
 
 
