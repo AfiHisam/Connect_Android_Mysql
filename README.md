@@ -19,3 +19,9 @@ compile 'com.squareup.picasso:picasso:2.5.2'
 compile 'com.github.amigold.fundapter:library:1.0'
 compile files('libs/mysql-connector-java-5.1.23-bin.jar')
 </pre>
+
+Not forget to add this line of code in AndroidManifest.xml to make connection 
+
+<pre>
+<uses-permission android:name="android.permission.INTERNET" />
+</pre>
