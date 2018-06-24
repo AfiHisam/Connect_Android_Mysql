@@ -45,6 +45,8 @@ And all layout file into layout folder in android studio
 
 <img src="https://github.com/AfiHisam/Connect_Android_Mysql/blob/master/1.PNG">
 
+After add user account successfully, it should look like this
+<img src="https://github.com/AfiHisam/Connect_Android_Mysql/blob/master/2.PNG">
 
 
 
