@@ -12,7 +12,8 @@ After clone/download this git, copy and paste mysql-connector-java-5.1.23-bin.ja
 
 <img src="https://github.com/AfiHisam/Connect_Android_Mysql/blob/master/pic1.PNG" width="40%">
 
-Add 3 line of code on build.gradle (Module.app)
+
+After that, add 3 line of code on build.gradle (Module.app)
 
 <pre>
 compile 'com.squareup.picasso:picasso:2.5.2'
