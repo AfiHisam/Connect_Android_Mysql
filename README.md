@@ -23,5 +23,5 @@ compile files('libs/mysql-connector-java-5.1.23-bin.jar')
 Not forget to add this line of code in AndroidManifest.xml to make connection 
 
 <pre>
-<uses-permission android:name="android.permission.INTERNET" />
+< uses-permission android:name="android.permission.INTERNET" />
 </pre>
