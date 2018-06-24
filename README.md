@@ -64,7 +64,12 @@ at line 16 replace the ip with your server ip.
     String password = "pass123";
 </pre>
 
-<i> Note : for those that using pc/laptop as server, make wifi hotspot and connect into it, open cmd/terminal and type ipconfig for window and ifconfig for linux to view the ip address </i> 
+<i> Note : for those that using pc/laptop as server, make wifi hotspot and connect into it, open cmd/terminal and type "ipconfig" for window and "ifconfig" for linux to view the ip address </i> 
 
+<hr>
+
+ScreenShot
+
+<img src="https://github.com/AfiHisam/Connect_Android_Mysql/blob/master/ss.jpg">
 
 
