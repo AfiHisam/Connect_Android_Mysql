@@ -11,8 +11,7 @@ This method is very effective for those who want to build an application that re
 After clone/download this git, copy and paste mysql-connector-java-5.1.23-bin.jar to libs forder in android studio. 
 
 <img src="https://github.com/AfiHisam/Connect_Android_Mysql/blob/master/pic1.PNG" width="40%">
-
-
+<p>
 After that, add 3 line of code on build.gradle (Module.app)
 
 <pre>
